@@ -17,7 +17,7 @@ Smart Health is a machine learning-powered web application that predicts the lik
 
 Clone the repository:
 
-git clone https://github.com/your-repo/smart-health.git
+git clone https://github.com/sakshampatidar123/Smart-Health.git
 cd smart-health
 
 Install dependencies:
