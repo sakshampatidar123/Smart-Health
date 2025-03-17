@@ -13,7 +13,7 @@ Smart Health is a machine learning-powered web application that predicts the lik
 ✅ Secure and efficient data processing
 
 
- Installation
+🔧Installation
 
 Clone the repository:
 
